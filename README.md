@@ -1,7 +1,6 @@
 # APBD Commerce
 By Muhammad Asadullah Al Galib
-https://andproductionbd.com
-Demo: http://apbdthemes.com/commerce
+https://galibweb.com
 
 ## About
 
@@ -25,4 +24,4 @@ This is coded in raw Procedural PHP. You can do the followings with this applica
 
 ## Thanks
 
-If you find any difficulties, feel free to contact me here: https://andproductionbd.com
+If you find any difficulties, feel free to contact me here: https://galibweb.com
